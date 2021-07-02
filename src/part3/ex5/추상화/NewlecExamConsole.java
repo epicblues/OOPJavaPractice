@@ -37,8 +37,7 @@ public class NewlecExamConsole extends ExamConsole{
 		NewlecExam newlecExam = (NewlecExam)exam; //자료 형식 변환.
 		int com = newlecExam.getCom();
 		System.out.printf("Computer : %d\n", com );
-		System.out.printf("\n총점 : %3d\n", newlecExam.total());
-		System.out.printf("평균 : %6.2f\n", newlecExam.avg());
+		
 		
 	}
 
