@@ -1,4 +1,4 @@
-import part3.ex4.UI코드분류하기.Exam;
+
 
 public class Program {
 	
@@ -7,8 +7,14 @@ public class Program {
 	//3. jar -> Exam.jar (java archive) 
 	
 	public static void main(String[] args) {
-		Exam exam = new Exam(1,1,1);
+		NewlecExam exam = new NewlecExam(10,20,30,40);
+		
 		System.out.println(exam.total());
+		System.out.println(exam.avg());
+		System.out.println(exam.getCom());
+		
+		
+		
 	}
 
 }
