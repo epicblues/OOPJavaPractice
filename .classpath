@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/StructuredJavaProject"/>
+	<classpathentry combineaccessrules="false" kind="src" path="./structured_JAVA_practice"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOPJavaPrj.iml" filepath="$PROJECT_DIR$/OOPJavaPrj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sturctured_JAVA_practice/sturctured_JAVA_practice.iml" filepath="$PROJECT_DIR$/../sturctured_JAVA_practice/sturctured_JAVA_practice.iml" />
+    </modules>
+  </component>
+</project>
