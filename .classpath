@@ -5,7 +5,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="structured_JAVA_practice"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry combineaccessrules="false" kind="src" path="./structured_JAVA_practice"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/StructuredJavaProject"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
